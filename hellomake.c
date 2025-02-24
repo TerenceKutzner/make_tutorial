@@ -1,5 +1,5 @@
 #include <hellomake.h>
-int main() { 
+int main() {
     myPrintHelloMake();
     return(0);
 }
